@@ -2,6 +2,8 @@
 # （个人银行账户管理程序）
 C++入手项目（《C++语言程序设计》（第4版）课本项目）
 
+![](https://github.com/Harryx2019/Personal-bank-account-management/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE%EF%BC%88%E7%AC%AC%E4%B9%9D%E7%AB%A0%EF%BC%89.png)
+
 ### 2020/7/11 第四章类和对象
 
 完成项目类的设计，初步实现基本功能（开户、存钱、取钱、结算利息）
